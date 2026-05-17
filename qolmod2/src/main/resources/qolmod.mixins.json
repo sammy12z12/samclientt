@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.qolmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GameRendererMixin",
+    "MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
